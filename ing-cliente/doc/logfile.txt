@@ -1,0 +1,32 @@
+Class documentation
+<---- javadoc command: ---->
+D:\PROGRAMAS\blueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+17
+-classpath
+D:\PROGRAMAS\blueJ\lib\bluejcore.jar;D:\PROGRAMAS\blueJ\lib\javafx-base-20.0.1-win.jar;D:\PROGRAMAS\blueJ\lib\javafx-base-20.0.1.jar;D:\PROGRAMAS\blueJ\lib\javafx-controls-20.0.1-win.jar;D:\PROGRAMAS\blueJ\lib\javafx-controls-20.0.1.jar;D:\PROGRAMAS\blueJ\lib\javafx-fxml-20.0.1-win.jar;D:\PROGRAMAS\blueJ\lib\javafx-fxml-20.0.1.jar;D:\PROGRAMAS\blueJ\lib\javafx-graphics-20.0.1-win.jar;D:\PROGRAMAS\blueJ\lib\javafx-graphics-20.0.1.jar;D:\PROGRAMAS\blueJ\lib\javafx-media-20.0.1-win.jar;D:\PROGRAMAS\blueJ\lib\javafx-media-20.0.1.jar;D:\PROGRAMAS\blueJ\lib\javafx-swing-20.0.1-win.jar;D:\PROGRAMAS\blueJ\lib\javafx-web-20.0.1-win.jar;D:\PROGRAMAS\blueJ\lib\junit-4.12.jar;D:\PROGRAMAS\blueJ\lib\junit-jupiter-5.5.2.jar;D:\PROGRAMAS\blueJ\lib\junit-jupiter-api-5.5.2.jar;D:\PROGRAMAS\blueJ\lib\junit-jupiter-engine-5.5.2.jar;D:\PROGRAMAS\blueJ\lib\junit-jupiter-params-5.5.2.jar;D:\PROGRAMAS\blueJ\lib\junit-platform-commons-1.5.2.jar;D:\PROGRAMAS\blueJ\lib\junit-platform-engine-1.5.2.jar;D:\PROGRAMAS\blueJ\lib\junit-platform-launcher-1.5.2.jar;D:\PROGRAMAS\blueJ\lib\junit-platform-suite-api-1.5.2.jar;D:\PROGRAMAS\blueJ\lib\junit-vintage-engine-5.5.2.jar;D:\PROGRAMAS\blueJ\lib\hamcrest-core-1.3.jar;D:\PROGRAMAS\blueJ\lib\opentest4j-1.2.0.jar;D:\PROGRAMAS\blueJ\lib\lang-stride.jar;D:\PROGRAMAS\blueJ\lib\javafx\javafx.base.jar;D:\PROGRAMAS\blueJ\lib\javafx\javafx.controls.jar;D:\PROGRAMAS\blueJ\lib\javafx\javafx.fxml.jar;D:\PROGRAMAS\blueJ\lib\javafx\javafx.graphics.jar;D:\PROGRAMAS\blueJ\lib\javafx\javafx.media.jar;D:\PROGRAMAS\blueJ\lib\javafx\javafx.properties.jar;D:\PROGRAMAS\blueJ\lib\javafx\javafx.swing.jar;D:\PROGRAMAS\blueJ\lib\javafx\javafx.web.jar;C:\Users\Simon\Desktop\ing-cliente
+-d
+C:\Users\Simon\Desktop\ing-cliente\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+C:\Users\Simon\Desktop\ing-cliente\Cliente.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\Simon\Desktop\ing-cliente\Cliente.java...
+Constructing Javadoc information...
+Standard Doclet version 17.0.4.1+1
+Building tree for all the packages and classes...
+Generating C:\Users\Simon\Desktop\ing-cliente\doc\Cliente.html...
+Generating C:\Users\Simon\Desktop\ing-cliente\doc\package-summary.html...
+Generating C:\Users\Simon\Desktop\ing-cliente\doc\constant-values.html...
+Generating C:\Users\Simon\Desktop\ing-cliente\doc\index.html...
